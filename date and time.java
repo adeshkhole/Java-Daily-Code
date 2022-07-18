@@ -32,6 +32,7 @@ class Result {
         int m = Integer.valueOf(month);
         int y = Integer.valueOf(year);
         LocalDate date = LocalDate.of(y, m, d);
+        
         return date.getDayOfWeek().toString();
     }
 

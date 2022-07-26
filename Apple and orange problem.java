@@ -32,10 +32,10 @@ public class Solution {
         }
         
         System.out.println(app);
+        
         System.out.println(or);
+
     }
 }
-
-
 
 
